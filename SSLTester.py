@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #author: Raithe Davion
+#Copyright 2014
 #Version: 0.1
 #Version Date: 12/17/2014
 
